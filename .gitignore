@@ -1,0 +1,5 @@
+leetcode/bin/*
+leetcode/include/*
+leetcode/lib/*
+leetcode/pyvenv.cfg
+.idea/*
